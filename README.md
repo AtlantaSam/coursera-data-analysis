@@ -17,15 +17,10 @@ conducting data analyses. Leeks recommends using [R Studio](http://www.rstudio.c
 and so do I. (Also: do yourself a favor and get R Studio set up to use
 [R Markdown](http://www.rstudio.com/ide/docs/r_markdown).)
 
-The general layout here:
-
-* `lectures` - Lecture notes and associated materials.
-* `quizzes` - "Showing my work" for the quizzes. (These are ignored with
-  `.gitignore` until the course is over or until the quizzes are "over"; can't
-  have anyone cheating, after all.)
-* `example-data-analysis-assignment` - Leek's example data analysis project; basically
-  a reference implementation for the student projects.
-
 ### "Why didn't someone tell me...?"
 
 Fork Jeff Leek's notes: <https://github.com/jtleek/dataanalysis/>
+
+### A Note About Plagiarism
+
+In December 2013, someone brought it to my attention the people were using these notes not to _help_ themselves in their learning process, but to _cheat_ and to _plagiarize_. I'd had high hopes that these would be useful and not harmful. But as the world is apparently full of cheating scumbags, I've had to remove the quizzes and assignments.
